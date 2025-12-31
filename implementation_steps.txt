@@ -1,0 +1,3 @@
+This document outlines the step-by-step Excel-based implementation followed during the internship.
+The process included data collection, cleaning, analysis using pivot tables, dashboard creation,
+and interpretation of insights for reporting purposes.
